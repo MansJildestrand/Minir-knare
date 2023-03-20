@@ -1,0 +1,10 @@
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\bin\Debug\Miniräknare.exe.config
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\bin\Debug\Miniräknare.exe
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\bin\Debug\Miniräknare.pdb
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\obj\Debug\Miniräknare.csprojAssemblyReference.cache
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\obj\Debug\Miniräknare.Properties.Resources.resources
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\obj\Debug\Miniräknare.csproj.GenerateResource.cache
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\obj\Debug\Miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\obj\Debug\Miniräknare.exe
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\obj\Debug\Miniräknare.pdb
+C:\Users\mans.jildestrand\Desktop\Forms c#\Miniräknare\Miniräknare\obj\Debug\Miniräknare.Miniräknare.resources
